@@ -4,7 +4,7 @@ LLM講座2025応用編最終課題コンペ
 ## Overview
 This repository documents my approach and improvements in the final project competition of the advanced Large Language Model Course 2025, organized by the Matsuo-Iwasawa Laboratory at the University of Tokyo.
 
-The competition consisted of multiple stages, with approximately 1000 participants in the main competition. From there, around 200 participants were selected for the advanced stage, with about 180 final submissions.
+The competition consisted of multiple stages, with approximately 600 participants in the main competition during the selection process. From there, around 200 participants were selected for the advanced stage, with about 180 final submissions.
 
 Among them, I ranked 9th and was selected as an outstanding performer.
 
