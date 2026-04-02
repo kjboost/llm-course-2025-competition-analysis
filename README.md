@@ -1,4 +1,4 @@
-# Final-Project-Competition-Advanced-LLM-Course-2025---Analysis-and-Improvements
+# Final-Competition-of-the-Large-Language-Model-Course-2025 (Advanced)---Analysis-and-Improvements
 LLM講座2025応用編最終課題コンペ
 
 ## Overview
@@ -47,15 +47,15 @@ Iterative cycles of hypothesis → validation → refinement were critical to ac
 ---
 
 ## Future Work
-I am interested in extending this work toward multi-agent LLM systems.
+I am interested in further exploring how data design influences the behavior and performance of LLMs.
 
-In particular, I would like to explore:
+In particular, I would like to investigate:
 
-- How information propagates across agents and leads to bias amplification  
-- How initial data distribution affects collective decision-making outcomes  
-- Emergent behaviors arising from interactions between LLM-based agents  
+- How differences in data distribution affect model outputs  
+- How different data conditions (e.g., distribution, bias, noise) influence model behavior  
+- How these effects become more complex in systems involving multiple interacting LLM agents  
 
-These directions are closely related to social simulation using LLMs.
+Through this, I am interested in extending my understanding toward more complex environments, including LLM-based simulations.
 
 ---
 
