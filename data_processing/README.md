@@ -1,13 +1,9 @@
-# Data Processing for LLM Competition
+## Data Processing for LLM Competition (Data-Centric Approach)
 
-## Overview
+### Overview
 This repository contains scripts used to improve model performance through data design.
 
-## Data Processing
-
-This script was used to improve model performance through data design.
-
-Key ideas:
+### Key Ideas
 
 - Normalize different datasets into consistent formats  
   (ALFWorld: action-only, DBBench: SQL-only)
@@ -15,13 +11,9 @@ Key ideas:
 - Identify weak task types (e.g., aggregation, counting)  
   and upweight them by duplication
 
-- Combine and shuffle datasets to control distribution
+- Combine and shuffle datasets to control distribution  
 
-These steps were based on the hypothesis that data quality and distribution
-significantly affect model performance.
-
-Output dataset is available on Hugging Face:
-https://huggingface.co/datasets/kochan13/mixed-agent-dataset-merged-clean-dedup-dbweak_2x_2
+These steps were based on the hypothesis that data quality and distribution significantly affect model performance.
 
 ### Pipeline
 
@@ -35,5 +27,11 @@ The processing pipeline follows this order:
 
 This ordering is critical to ensure that distribution control is preserved.
 
-## Code
+### Output
+
+Dataset available on Hugging Face:  
+https://huggingface.co/datasets/kochan13/mixed-agent-dataset-merged-clean-dedup-dbweak_2x_2
+
+### Code
+
 See `data_processing.py`
