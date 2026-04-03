@@ -67,7 +67,7 @@ Through this, I am interested in extending my understanding toward more complex 
 - Dataset: https://huggingface.co/datasets/kochan13/kochan13/mixed-agent-dataset-merged-clean-dedup-dbweak_2x_2
   → Processed dataset with normalization and distribution control
 
-- Model: [（あれば）](https://huggingface.co/kochan13/lora_agentbench_qwen2.5_7b_26030106_16bit)
+- Model: https://huggingface.co/kochan13/lora_agentbench_qwen2.5_7b_26030106_16bit
 
 These were used as part of the data-centric improvement approach.
 
